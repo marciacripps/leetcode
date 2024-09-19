@@ -41,7 +41,6 @@
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        # Dictionary to store the number and its index
         num_to_index = {}
         
         # Loop through the list
